@@ -1,3 +1,4 @@
+#Jody_Zhu
 def encoder(not_encoded):
     result = []
     final = ""
@@ -8,7 +9,7 @@ def encoder(not_encoded):
         #add 3 to the different values in the string
         final += str(j)
     return final
-
+#Zhu_Jody
 def decoder(encoded):
     result = []
     final = ""
